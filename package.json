@@ -1,0 +1,1 @@
+{"description":"The Long Roast: Lawmakers and the File They Cannot Convert — one satirical sentence","engines":{"node":">=22"},"license":"MIT","main":"main.ts","name":"makefun-long-roast-lawmakers-v2","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
